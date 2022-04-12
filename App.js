@@ -66,6 +66,7 @@ export default function App() {
       <View style={styles.results}>
         <Text style={styles.historyText}>{lastNumber}</Text>
         <Text style={styles.resultText}>{currentNumber}</Text>
+      
       </View> // feito o fechamento da view em que estava aberto "/"
 
 
